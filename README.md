@@ -1,4 +1,4 @@
-# Windows-Product-Key-Retriver
+# Windows Product Key Retreiver
 Python Script to retrieve the product key of a Windows computer (Both Retail and OEM)
 
 # What Is The Purpose Of This Script?
