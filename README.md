@@ -1,8 +1,8 @@
-# Windows Product Key Retreiver
+# Windows Product Key Retriever
 Python Script to retrieve the product key of a Windows computer (Both Retail and OEM)
 
 # What Is The Purpose Of This Script?
-This script retrives the product key of a computer using the windows registry, the reason it exists to provide a free and non sketchy way of retriving the key on a computer, this can be useful in case you lose the key or need to reinstall windows at any point
+This script retrieves the product key of a computer using the windows registry, the reason it exists to provide a free and non sketchy way of retriving the key on a computer, this can be useful in case you lose the key or need to reinstall windows at any point
 
 # What's wrong with existing solutions such as "X Product Key Finder"
 Simple, often they cost money, and in their free versions don't reveal the full key, not to mention we don't know what their exactly doing behind the scenes since the code is often proprietary, so who knows what can go wrong with them, this is an entirely local script to do that task without any hassle.
