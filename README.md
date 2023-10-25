@@ -22,7 +22,7 @@ Assuming it hasn't changed much (Hopefully), This would work with any operating 
 
 # How To Use?
 
-For the python version, just use this command `python "D:\Scripts\Product Key Retriver.py", however replace that with the location of where the script is located, then enter
+For the python version, just use this command `python "D:\Scripts\Product Key Retriver.py"`, however replace that with the location of where the script is located, then enter
 For the batch version, drag into a CMD or Windows Terminal window, then press enter
 For the ruby version, use the same command as python, however replacing python with `ruby`
 
