@@ -18,11 +18,12 @@ No, that is not the intention of this script, it simply exists to show the key o
 
 # What OS Does This Support?
 
-Assuming it hasn't changed much (Hopefully), This would work with any operating system supported by Python, which looks to be Windows 8.1 and newer, however this script may work on earlier versions, though I cannot guarantee compatibility, a batch version will exist if you absolutely need it to work on Windows 7.
+Assuming it hasn't changed much (Hopefully), This would work with any operating system supported by Python, which looks to be Windows 8.1 and newer, however this script may work on earlier versions, though I cannot guarantee compatibility, a batch version will exist if you absolutely need it to work on Windows 7. Ruby is supported too
 
 # How To Use?
 
 For the python version, just use this command `python "D:\Scripts\Product Key Retriver.py", however replace that with the location of where the script is located, then enter
 For the batch version, drag into a CMD or Windows Terminal window, then press enter
+For the ruby version, use the same command as python, however replacing python with `ruby`
 
 Both support command line
