@@ -20,6 +20,7 @@ No, that is not the intention of this script, it simply exists to show the key o
 
 Assuming it hasn't changed much (Hopefully), This would work with any operating system supported by Python, which looks to be Windows 8.1 and newer, however this script may work on earlier versions, though I cannot guarantee compatibility, a batch version will exist if you absolutely need it to work on Windows 7. Ruby is supported too
 
+Update: After testing, this script is incompatible with anything below Windows 10, this is because the value doesnt exist in Windows 8.1 or Windows 7
 # How To Use?
 
 For the python version, just use this command `python "D:\Scripts\Product Key Retriver.py"`, however replace that with the location of where the script is located, then enter
