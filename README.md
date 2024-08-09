@@ -1,11 +1,11 @@
 # Windows Product Key Retriever
-Python Script to retrieve the product key of a Windows computer (Both Retail and OEM)
+A Script to retrieve the product key of a Windows computer (both Retail and OEM)
 
 # What Is The Purpose Of This Script?
-This script retrieves the product key of a computer using the windows registry, the reason it exists to provide a free and non sketchy way of retriving the key on a computer, this can be useful in case you lose the key or need to reinstall windows at any point
+This script retrieves the product key of a computer using the Windows Registry. The reason it exists to provide a free, non sketchy way of retriving the product key on a computer. This can be useful in case you lose the key or need to reinstall Windows at any point.,
 
 # What's wrong with existing solutions such as "X Product Key Finder"
-Simple, often they cost money, and in their free versions don't reveal the full key, not to mention we don't know what their exactly doing behind the scenes since the code is often proprietary, so who knows what can go wrong with them, this is an entirely local script to do that task without any hassle.
+Simple, they often cost money, and their free versions don't reveal the full product key, not to mention we don't know what they're exactly doing behind the scenes since their apps are often proprietary. Who knows what can go wrong with them? This is an entirely local script to do that task without any hassle.
 
 # What Exactly Does This Script Do?
 This script retrieves the Product Key from a computer, Both Retail and OEM Keys are supported, These keys are what's used to activate windows to prove you have a legitmiate copy, Retail keys will need to be re entered in hardware changes or OS Reinstall, however OEM Keys will always reactivate the computer in the event you need to reinstall windows since they are stored in the UEFI Firmware, however they cannot be transferred, and they die when the computer dies.
@@ -18,13 +18,12 @@ No, that is not the intention of this script, it simply exists to show the key o
 
 # What OS Does This Support?
 
-Assuming it hasn't changed much (Hopefully), This would work with any operating system supported by Python, which looks to be Windows 8.1 and newer, however this script may work on earlier versions, though I cannot guarantee compatibility, a batch version will exist if you absolutely need it to work on Windows 7. Ruby is supported too
+Assuming it hasn't changed much (Hopefully), This would work with Windows 10 and newer, this script does NOT work with Windows 8.1 or below. This is because the product key value doesnt exist in Windows 8.1 or Windows 7.
 
-Update: After testing, this script is incompatible with anything below Windows 10, this is because the value doesnt exist in Windows 8.1 or Windows 7
 # How To Use?
 
-For the python version, just use this command `python "D:\Scripts\Product Key Retriver.py"`, however replace that with the location of where the script is located, then enter
+For the python version, just use this command `python "D:\Scripts\Product Key Retriver.py"`, however replace that with the location of where the script is located, then enter.
 For the batch version, drag into a CMD or Windows Terminal window, then press enter
-For the ruby version, use the same command as python, however replacing python with `ruby`
+For the ruby version, use the same command as python, however, replacing python with `ruby`
 
 Both support command line
